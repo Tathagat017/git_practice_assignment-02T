@@ -12,7 +12,7 @@ STEP 4:   Member 2 creates a new branch : m2_code_fix : pending
 
 STEP 5 : Member 1 ( Tathagat) creates a new branch : m1_code_fix and fixes code (done)
 
-STEP 6 : Member 1 creates PR for main 
+STEP 6 : Member 1 creates PR for main (done)
 
 STEP 6 : conflict between codes in m1_code_fix and m2_code-fix (pending)
 
